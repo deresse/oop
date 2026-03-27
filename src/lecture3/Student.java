@@ -2,7 +2,7 @@ package lecture3;
 import javax.swing.JOptionPane;
 /**
  *
- * @author hp
+ * @author Deresse Demeke Shallo
  */
 public class Student {
     static int totalStudents=0;
