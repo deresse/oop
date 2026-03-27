@@ -1,7 +1,7 @@
 package lecture3;
 /**
  *
- * @author hp
+ * @author Deresse Demeke Shallo
  */
 public interface Flyable {
     void fly();
