@@ -10,7 +10,7 @@ import lecture3.Dog;
 
 /**
  *
- * @author hp
+ * @author Deresse Demeke Shallo
  */
 public class TestInheritance {
 
@@ -22,16 +22,16 @@ public class TestInheritance {
         
         if(animal[0] instanceof Dog)
         {
-            Dog dog=(Dog)animal[0];
+            Dog dog=(Dog)animal[0];// downcasting
              dog.bark();
              dog.eat();
         }
-        //animal[0].eat();
-        //animal[1].eat();
-       /* for(Animal an:animal)
+        animal[0].eat();
+        animal[1].eat();
+        for(Animal an:animal)
         {
             an.eat();
-        }*/
+        }
 
     }
 
