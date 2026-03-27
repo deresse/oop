@@ -64,6 +64,6 @@ public class Student {
  @Override
     public String toString()
     {
-        return "My full name is "+ Fullname+"I'm a student of "+ID+" My ID number is "+Dept+" and I'M %d years old!";
+        return "My full name is "+ Fullname+"I'm a student of "+ID+" My ID number is "+Dept+" and I'M "+age+" years old!";
     }
 }
