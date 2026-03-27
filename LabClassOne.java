@@ -6,7 +6,7 @@ package labclassone;
 
 /**
  *
- * @author hp
+ * @author Deresse Demeke Shallo
  */
 public class LabClassOne {
 
