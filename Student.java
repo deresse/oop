@@ -6,7 +6,7 @@ package labclasstwo;
 
 /**
  *
- * @author hp
+ * @author Deresse Demeke Shallo
  */
 public class Student {
  private String Fullname;
