@@ -3,7 +3,7 @@ package lecture3;
 
 /**
  *
- * @author hp
+ * @author Deresse Demeke
  */
 public non-sealed class Dog extends Animal { //Dog is a child of Animal class
 
