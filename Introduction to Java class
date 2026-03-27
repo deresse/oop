@@ -1,1 +1,40 @@
-This is a simple example that shows how to create a simple Java program with a main method
+//This is a simple example that shows how to create a simple Java program with a main method
+
+package classone;
+import java.util.Scanner;
+/**
+ *
+ * @author Deresse Demeke Shallo
+ */
+public class ClassOne {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.println(345);
+        String name;
+        int age;
+        Scanner input=new Scanner(System.in);
+        System.out.println("What is your name ?");
+        name=input.next();
+        System.out.println("My name is "+name);
+        System.out.println("How old are you ?");
+        age=input.nextInt();//To read integer you can use nextInt() method of scanner class
+        if(age>18&&age<=130)
+        {
+            System.out.println("you are above 18");
+        }
+        
+        else{
+            System.out.println("you are below 18");
+        }
+        System.out.println("I'm "+ age+" years old!");
+        System.out.println(age>18?"you are above 17":"you are below 18");
+        
+    }
+    
+}
+
+
