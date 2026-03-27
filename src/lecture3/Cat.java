@@ -6,7 +6,7 @@ package lecture3;
 
 /**
  *
- * @author hp
+ * @author Deresse Demeke Shallo
  */
 public non-sealed class Cat extends Animal {
     public Cat(String name)
