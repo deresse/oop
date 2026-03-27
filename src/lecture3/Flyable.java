@@ -41,7 +41,7 @@ class Duck implements Flyable, Swimmable {
     }
     @Override
     public void land() {
-        System.out.println(name + " is splash-landing on the water");
+        System.out.println(name + " is landing on the water");
     }
 } //end of class Duck
 
