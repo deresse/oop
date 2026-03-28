@@ -14,5 +14,6 @@ Clone the repository
 Navigate through branches
 Review concepts and code examples
 Enjoy learning and experimenting with OOP!
+
 Author:
 Deresse Demeke Shallo
