@@ -31,8 +31,9 @@ public class ClassOne {
             System.out.println("you are below 18");
         }
         System.out.println("I'm "+ age+" years old!");
-        System.out.println(age>18?"you are above 17":"you are below 18");
-        
+// Ternary operator 
+        String response=(age>18)?"you are above 18":"you are below 18";
+        System.out.println(response);
     }
     
 }
