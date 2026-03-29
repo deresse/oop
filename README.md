@@ -14,6 +14,8 @@ Clone the repository
 Navigate through branches
 Review concepts and code examples
 Enjoy learning and experimenting with OOP!
-
-Author:
-Deresse Demeke Shallo
+ 📧 Contact
+Author: Deresse Demeke Shallo
+E-mail: deressedemeke@gmail.com
+PhD Candidate, Arba Minch University
+Specializing in migration modeling and cloud data center optimization.
