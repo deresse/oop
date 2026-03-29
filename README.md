@@ -16,6 +16,9 @@ Review concepts and code examples
 Enjoy learning and experimenting with OOP!
  📧 Contact
 Author: Deresse Demeke Shallo
+
 E-mail: deressedemeke@gmail.com
+
 PhD Candidate, Arba Minch University
+
 Specializing in migration modeling and cloud data center optimization.
